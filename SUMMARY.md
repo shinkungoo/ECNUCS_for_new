@@ -12,9 +12,19 @@
 ## 准备一个CS学生的笔记本 <a href="#准备一个CS学生的笔记本" id="准备一个CS学生的笔记本"></a>
 
 * [选购计算机](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/ji-suan-ji-de-ying-jian-pei-zhi.md)
-* [选Win、Mac还是Linux](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/xuan-winmac-huan-shi-linux.md)
-* [参考应用清单](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/README.md)
-  * [Software1](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/software1.md)
+* [选Win、Mac还是Linux](准备一个CS学生的笔记本/选Win-Mac还是Linux.md)
+* [参考应用清单](准备一个CS学生的笔记本/参考应用清单/README.md)
+  * [Devcpp](准备一个CS学生的笔记本/参考应用清单/devcpp.md)
+  * [CodeBlocks](准备一个CS学生的笔记本/参考应用清单/codeblocks.md)
+  * [JetBrains全家桶](准备一个CS学生的笔记本/参考应用清单/JetBrains全家桶.md)
+  * [Visual Studio Code](准备一个CS学生的笔记本/参考应用清单/visual-studio-code.md)
+  * [Github Desktop](准备一个CS学生的笔记本/参考应用清单/github-desktop.md)
+  * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
+  * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
+  * [语雀](准备一个CS学生的笔记本/参考应用清单/语雀.md)
+  * [滴答清单](准备一个CS学生的笔记本/参考应用清单/滴答清单.md)
+  * [VMware](准备一个CS学生的笔记本/参考应用清单/vmware.md)
+  * [Docker](准备一个CS学生的笔记本/参考应用清单/docker.md)
 
 ## 暑假里可以做的简单预习
 
