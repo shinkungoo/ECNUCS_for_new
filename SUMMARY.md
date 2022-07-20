@@ -7,7 +7,7 @@
 
 * [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
 * [CS的学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
-* [进一步了解华东师大的CS](对我校CS的初步认识/进一步了解华东师大的CS.md)
+* [进一步了解华东师大的CS](对我校CS的初步认识/华东师大的CS.md)
 
 ## 准备一个CS学生的笔记本
 
