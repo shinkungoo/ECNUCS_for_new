@@ -11,10 +11,10 @@
 
 ## 准备一个CS学生的笔记本 <a href="#准备一个CS学生的笔记本" id="准备一个CS学生的笔记本"></a>
 
-* [选购计算机](准备一个CS学生的笔记本/选购计算机.md)
-* [选Win、Mac还是Linux](准备一个CS学生的笔记本/xuan-winmac-huan-shi-linux.md)
-* [参考应用清单](准备一个CS学生的笔记本/can-kao-ying-yong-qing-dan/README.md)
-  * [Software1](准备一个CS学生的笔记本/can-kao-ying-yong-qing-dan/software1.md)
+* [选购计算机](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/ji-suan-ji-de-ying-jian-pei-zhi.md)
+* [选Win、Mac还是Linux](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/xuan-winmac-huan-shi-linux.md)
+* [参考应用清单](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/README.md)
+  * [Software1](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/software1.md)
 
 ## 暑假里可以做的简单预习
 
