@@ -1,13 +1,13 @@
 # Table of contents
 
 * [前言](README.md)
-* [一些名词的缩写](一些名词的缩写.md)
+* [一些名词的缩写](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
 
 ## 对我校CS的初步认识  <a href="#对我校CS的初步认识" id="对我校CS的初步认识"></a>
 
-* [CS学什么](对我校CS的初步认识/CS学什么.md)
-* [CS的学习体验](对我校CS的初步认识/CS的学习体验.md)
-* [华东师大的CS](对我校CS的初步认识/hua-dong-shi-da-de-cs.md)
+* [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
+* [CS的学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
+* [华东师大的CS](dui-wo-xiao-cs-de-chu-bu-ren-shi/hua-dong-shi-da-de-cs.md)
 
 ## 准备一个CS学生的笔记本
 
@@ -29,6 +29,7 @@
 * [英语去A班好还是B班好？](q-and-a/ying-yu-quaban-hao-huan-shibban-hao.md)
 * [如何不上晚自习？](q-and-a/ru-he-bu-shang-wan-zi-xi.md)
 * [绩点是什么？会有排名吗？](q-and-a/ji-dian-shi-shi-mo-hui-you-pai-ming-ma.md)
+* [选课是什么样的？](q-and-a/xuan-ke-shi-shi-mo-yang-de.md)
 * [大一上使用的教材是什么？我需要统一购买吗？](q-and-a/da-yi-shang-shi-yong-de-jiao-cai-shi-shi-mo-wo-xu-yao-tong-yi-gou-mai-ma.md)
 * [如何选择图书馆的位置？](q-and-a/ru-he-xuan-ze-tu-shu-guan-de-wei-zhi.md)
 * [任课老师怎么样？](q-and-a/ren-ke-lao-shi-zen-mo-yang.md)
