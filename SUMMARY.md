@@ -1,13 +1,13 @@
 # Table of contents
 
 * [前言](README.md)
-* [前附录-一些名词的缩写](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
+* [一些名词的缩写](一些名词的缩写.md)
 
-## 对我校CS的初步认识&#x20;
+## 对我校CS的初步认识  <a href="#对我校CS的初步认识" id="对我校CS的初步认识"></a>
 
-* [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
-* [CS的学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
-* [华东师大的CS](dui-wo-xiao-cs-de-chu-bu-ren-shi/hua-dong-shi-da-de-cs.md)
+* [CS学什么](对我校CS的初步认识/CS学什么.md)
+* [CS的学习体验](对我校CS的初步认识/CS的学习体验.md)
+* [华东师大的CS](对我校CS的初步认识/hua-dong-shi-da-de-cs.md)
 
 ## 准备一个CS学生的笔记本
 
