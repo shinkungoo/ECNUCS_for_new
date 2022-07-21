@@ -24,10 +24,10 @@
 
 ## 暑假里可以做的简单预习 <a href="#暑假里可以做的简单预习" id="暑假里可以做的简单预习"></a>
 
-* [C语言](暑假里可以做的简单预习/C语言.md)
-* [高等数学](暑假里可以做的简单预习/高等数学.md)
-* [英语](暑假里可以做的简单预习/英语.md)
-* [更进一步](暑假里可以做的简单预习/更进一步.md)
+* [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/c-yu-yan.md)
+* [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/gao-deng-shu-xue.md)
+* [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu.md)
+* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/geng-jin-yi-bu.md)
 
 ## Q\&A
 
