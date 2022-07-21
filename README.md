@@ -11,11 +11,7 @@
 
 <img src=".gitbook/assets/1322bd041f6fb19d2f560037f5f6cc4.png" alt="" data-size="original">
 
-如果仍然不可，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)或者是下载该文档的PDF版本（但更新频率比较文档慢）
-{% endhint %}
-
-{% hint style="info" %}
-目前PDF最后更新版本为20220721
+如果仍然不可，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)阅读该文档
 {% endhint %}
 
 贡献者：[Shin\_Kungoo](https://github.com/shinkungoo)
