@@ -4,7 +4,7 @@
 
 [官方下载地址](https://www.bloodshed.net/)
 
-![devcpp界面](../../.gitbook/assets/image.png)
+![devcpp界面](<../../.gitbook/assets/image (1).png>)
 
 {% hint style="info" %}
 Mac上无此软件
