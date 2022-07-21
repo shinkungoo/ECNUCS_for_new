@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [一些名词的缩写](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
+* [一些名词的解释](一些名词的解释.md)
 
 ## 对我校CS的初步认识  <a href="#对我校CS的初步认识" id="对我校CS的初步认识"></a>
 
@@ -18,13 +18,9 @@
   * [CodeBlocks](准备一个CS学生的笔记本/参考应用清单/codeblocks.md)
   * [JetBrains全家桶](准备一个CS学生的笔记本/参考应用清单/JetBrains全家桶.md)
   * [Visual Studio Code](准备一个CS学生的笔记本/参考应用清单/visual-studio-code.md)
-  * [Github Desktop](准备一个CS学生的笔记本/参考应用清单/github-desktop.md)
+  * [Github](准备一个CS学生的笔记本/参考应用清单/github.md)
   * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
   * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
-  * [语雀](准备一个CS学生的笔记本/参考应用清单/语雀.md)
-  * [滴答清单](准备一个CS学生的笔记本/参考应用清单/滴答清单.md)
-  * [VMware](准备一个CS学生的笔记本/参考应用清单/vmware.md)
-  * [Docker](准备一个CS学生的笔记本/参考应用清单/docker.md)
 
 ## 暑假里可以做的简单预习
 
