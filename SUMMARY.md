@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [一些名词的解释](一些名词的解释.md)
+* [一些名词的解释](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
 
 ## 对我校CS的初步认识  <a href="#对我校CS的初步认识" id="对我校CS的初步认识"></a>
 
@@ -18,16 +18,16 @@
   * [CodeBlocks](准备一个CS学生的笔记本/参考应用清单/codeblocks.md)
   * [JetBrains全家桶](准备一个CS学生的笔记本/参考应用清单/JetBrains全家桶.md)
   * [Visual Studio Code](准备一个CS学生的笔记本/参考应用清单/visual-studio-code.md)
-  * [Github](准备一个CS学生的笔记本/参考应用清单/github.md)
+  * [Github](准备一个CS学生的笔记本/参考应用清单/github-desktop.md)
   * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
   * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
 
-## 暑假里可以做的简单预习
+## 暑假里可以做的简单预习 <a href="#暑假里可以做的简单预习" id="暑假里可以做的简单预习"></a>
 
-* [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/c-yu-yan.md)
-* [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/gao-deng-shu-xue.md)
-* [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu.md)
-* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/geng-jin-yi-bu.md)
+* [C语言](暑假里可以做的简单预习/C语言.md)
+* [高等数学](暑假里可以做的简单预习/高等数学.md)
+* [英语](暑假里可以做的简单预习/英语.md)
+* [更进一步](暑假里可以做的简单预习/更进一步.md)
 
 ## Q\&A
 
@@ -38,7 +38,6 @@
 * [选课是什么样的？](q-and-a/xuan-ke-shi-shi-mo-yang-de.md)
 * [大一上使用的教材是什么？我需要统一购买吗？](q-and-a/da-yi-shang-shi-yong-de-jiao-cai-shi-shi-mo-wo-xu-yao-tong-yi-gou-mai-ma.md)
 * [如何选择图书馆的位置？](q-and-a/ru-he-xuan-ze-tu-shu-guan-de-wei-zhi.md)
-* [任课老师怎么样？](q-and-a/ren-ke-lao-shi-zen-mo-yang.md)
 * [专业存在分流的情况吗？](q-and-a/zhuan-ye-cun-zai-fen-liu-de-qing-kuang-ma.md)
 * [如果我向往科研，我在大一可以做什么？](q-and-a/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
 * [如果我向往竞赛，我在大一可以做什么？](q-and-a/ru-guo-wo-xiang-wang-jing-sai-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
