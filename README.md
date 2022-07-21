@@ -7,7 +7,11 @@
 限于笔者的水平，文中或有不当之处，还望各位读者不吝赐教。各种修改和指正可以在[这里](https://github.com/shinkungoo/ECNUCS\_for\_new)指出。喜欢的话给[该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)一个Star吧。
 
 {% hint style="info" %}
-如果阅读该文档很卡顿，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)或者是下载该文档的PDF版本（但更新频率比较文档慢）
+如果阅读该文档很卡顿并出现以下的情况，可以点击一下“重装”看能否查看
+
+<img src=".gitbook/assets/1322bd041f6fb19d2f560037f5f6cc4.png" alt="" data-size="original">
+
+如果仍然不可，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)或者是下载该文档的PDF版本（但更新频率比较文档慢）
 {% endhint %}
 
 {% hint style="info" %}
