@@ -4,7 +4,7 @@
 
 [官方下载地址](https://joplinapp.org/)
 
-![Joplin使用界面](<../../.gitbook/assets/image (3).png>)
+![Joplin使用界面](<../../.gitbook/assets/image (2).png>)
 
 {% hint style="info" %}
 该软件在Mac上很适用，在Win上有很多莫名其妙的Bug。

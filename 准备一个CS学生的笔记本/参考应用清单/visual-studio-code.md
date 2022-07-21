@@ -6,5 +6,5 @@
 
 由于VS Code的基本功能只是文本编辑器，还需要下载众多的插件才能保证功能，其配置有一定的难度。
 
-![VS Code界面](<../../.gitbook/assets/image (2).png>)
+![VS Code界面](<../../.gitbook/assets/image (1).png>)
 
