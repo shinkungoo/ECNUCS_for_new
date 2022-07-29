@@ -27,7 +27,7 @@
 * [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/c-yu-yan.md)
 * [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/gao-deng-shu-xue.md)
 * [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu.md)
-* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/更进一步.md)
+* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/geng-jin-yi-bu.md)
 
 ## Q\&A
 
