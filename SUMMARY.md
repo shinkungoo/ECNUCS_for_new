@@ -3,13 +3,13 @@
 * [前言](README.md)
 * [一些名词的解释](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
 
-## 对我校CS的初步认识  <a href="#对我校CS的初步认识" id="对我校CS的初步认识"></a>
+## 对我校CS的初步认识
 
 * [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
 * [CS的学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
 * [进一步了解华东师大的CS](对我校CS的初步认识/华东师大的CS.md)
 
-## 准备一个CS学生的笔记本 <a href="#准备一个CS学生的笔记本" id="准备一个CS学生的笔记本"></a>
+## 准备一个CS学生的笔记本
 
 * [选购计算机](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/ji-suan-ji-de-ying-jian-pei-zhi.md)
 * [选Win、Mac还是Linux](准备一个CS学生的笔记本/选Win-Mac还是Linux.md)
@@ -22,12 +22,12 @@
   * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
   * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
 
-## 暑假里可以做的简单预习 <a href="#暑假里可以做的简单预习" id="暑假里可以做的简单预习"></a>
+## 暑假里可以做的简单预习
 
 * [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/c-yu-yan.md)
 * [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/gao-deng-shu-xue.md)
 * [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu.md)
-* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/geng-jin-yi-bu.md)
+* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/更进一步.md)
 
 ## Q\&A
 
