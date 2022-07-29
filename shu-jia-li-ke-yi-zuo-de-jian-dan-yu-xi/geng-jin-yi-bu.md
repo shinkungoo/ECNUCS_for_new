@@ -14,6 +14,6 @@ $$\LaTeX{}$$语言是一种基于$$\TeX{}$$的排版语言，用该语言排版�
 
 Markdown语法是一种轻量级标记语言，由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，目前许多网站都广泛使用Markdown来撰写帮助文档（包括这篇文章也是采用的Markdown语法）
 
-### 4. [计算机科学速成课](Crash Course Computer Science)
+### 4. [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th?share_source=copy_web)
 
 这门课程可以让人快速了解计算机学科的发展与分野，对整个学科有一定层度浅层次的认知。
