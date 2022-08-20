@@ -21,6 +21,7 @@
   * [Github](准备一个CS学生的笔记本/参考应用清单/github-desktop.md)
   * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
   * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
+* [大一上教材购买](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/da-yi-shang-jiao-cai-gou-mai.md)
 
 ## 暑假里可以做的简单预习
 
