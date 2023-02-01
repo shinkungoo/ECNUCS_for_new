@@ -39,7 +39,7 @@
 * [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
 * [主要科研团队及研究方向](dui-wo-xiao-cs-de-chu-bu-ren-shi/zhu-yao-ke-yan-tuan-dui-ji-yan-jiu-fang-xiang.md)
 
-## 准备一个CS学生的笔记本
+## 工善欲其事，必先利其器 <a href="#zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben" id="zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben"></a>
 
 * [选购计算机](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/ji-suan-ji-de-ying-jian-pei-zhi.md)
 * [选Win、Mac还是Linux](准备一个CS学生的笔记本/选Win-Mac还是Linux.md)
@@ -51,14 +51,38 @@
   * [Github](准备一个CS学生的笔记本/参考应用清单/github-desktop.md)
   * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
   * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
-* [大一上教材购买](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/da-yi-shang-jiao-cai-gou-mai.md)
+* [教材选购指南](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/jiao-cai-xuan-gou-zhi-nan.md)
 
-## 暑假里可以做的简单预习
+## CS基础知识自学指南 <a href="#shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi" id="shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi"></a>
 
 * [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/c-yu-yan.md)
 * [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/gao-deng-shu-xue.md)
 * [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu.md)
 * [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/geng-jin-yi-bu.md)
+
+## CS本科科研学习指南
+
+* [Page 1](cs-ben-ke-ke-yan-xue-xi-zhi-nan/page-1.md)
+
+## CS本科竞赛学习指南
+
+* [Page 2](cs-ben-ke-jing-sai-xue-xi-zhi-nan/page-2.md)
+
+## CS本科项目&实习指南
+
+* [Page 3](cs-ben-ke-xiang-mu-shi-xi-zhi-nan/page-3.md)
+
+## 一些伎俩
+
+* [转专业面试问题](yi-xie-ji-liang/zhuan-zhuan-ye-mian-shi-wen-ti.md)
+* [更进一步：选课技巧与原则](yi-xie-ji-liang/geng-jin-yi-bu-xuan-ke-ji-qiao-yu-yuan-ze.md)
+* [备考指南](yi-xie-ji-liang/bei-kao-zhi-nan.md)
+* [成绩面面观](yi-xie-ji-liang/cheng-ji-mian-mian-guan.md)
+* [暗黑禁术](yi-xie-ji-liang/an-hei-jin-shu/README.md)
+  * [思政论文书写技巧](yi-xie-ji-liang/an-hei-jin-shu/si-zheng-lun-wen-shu-xie-ji-qiao.md)
+  * [实验报告书写技巧](yi-xie-ji-liang/an-hei-jin-shu/shi-yan-bao-gao-shu-xie-ji-qiao.md)
+  * [扫荡MOOC](yi-xie-ji-liang/an-hei-jin-shu/sao-dang-mooc.md)
+  * [重叠选课禁术](yi-xie-ji-liang/an-hei-jin-shu/zhong-die-xuan-ke-jin-shu.md)
 
 ## Q\&A
 

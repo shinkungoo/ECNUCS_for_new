@@ -1,3 +1,7 @@
+---
+description: （will be deleted）
+---
+
 # CS的学习体验
 
 ### 1. 学习CS需要的觉悟
