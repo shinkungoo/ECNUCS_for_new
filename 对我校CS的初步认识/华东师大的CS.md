@@ -1,3 +1,7 @@
+---
+description: （will be deleted）
+---
+
 # 进一步了解华东师大的CS
 
 ### 1. 本科生学习指南
