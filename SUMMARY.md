@@ -4,13 +4,8 @@
 
 * [声明](README.md)
 * [第二版前言](xie-zi/di-er-ban-qian-yan.md)
-* [第一版前言](xie-zi/readme.md)
-
-***
-
-* [Page 2](page-2.md)
-* [一些名词的解释](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
-* [Page 1](page-1.md)
+* [第一版前言](<README (1).md>)
+* [一些名词解释和缩写](xie-zi/qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
 
 ## 对我校CS的初步认识
 
