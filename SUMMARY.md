@@ -17,27 +17,27 @@
 ## 学院概况 <a href="#dui-wo-xiao-cs-de-chu-bu-ren-shi" id="dui-wo-xiao-cs-de-chu-bu-ren-shi"></a>
 
 * [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
-* [CS的学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
+* [CS学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
+* [优雅CSer指南](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/README.md)
+  * [大一上CS生活一瞥](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/da-yi-shang-cs-sheng-huo-yi-pie.md)
+  * [选课技巧](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/README.md)
+    * [选课是什么样的？](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md)
+  * [培养计划](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/pei-yang-ji-hua.md)
+  * [成绩评定方法](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/cheng-ji-ping-ding-fang-fa.md)
+  * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu/README.md)
+    * [跨国（境）跨校交流](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu/kua-guo-jing-kua-xiao-jiao-liu.md)
+* [CS特色制度与项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/README.md)
+  * [CS拔尖班](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-ba-jian-ban.md)
+  * [重要学科竞赛简介](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/zhong-yao-xue-ke-jing-sai-jian-jie.md)
+  * [专业创新创业项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/zhuan-ye-chuang-xin-chuang-ye-xiang-mu.md)
+  * [“三早进”](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/README.md)
+    * [AI俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/ai-ju-le-bu.md)
+    * [青春@计](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/qing-chun-ji.md)
+    * [双创俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/shuang-chuang-ju-le-bu.md)
+    * [主要科研团队及研究方向](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/zhu-yao-ke-yan-tuan-dui-ji-yan-jiu-fang-xiang.md)
+  * [CS系奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-xi-jiang-xue-jin-ping-bi-xi-ze.md)
+  * [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
 * [进一步了解华东师大的CS](对我校CS的初步认识/华东师大的CS.md)
-* [CS本科生学习概况](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/README.md)
-  * [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/cs-xue-shi-mo.md)
-  * [CS压力如何](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/cs-ya-li-ru-he.md)
-  * [选课技巧](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/xuan-ke-ji-qiao.md)
-  * [培养计划](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/pei-yang-ji-hua.md)
-  * [成绩评定方法](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/cheng-ji-ping-ding-fang-fa.md)
-  * [跨国（境）跨校交流](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/kua-guo-jing-kua-xiao-jiao-liu.md)
-  * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/xue-xiao-chang-yong-wang-ye-ming-lu.md)
-  * [大一上CS生活一瞥](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ben-ke-sheng-xue-xi-gai-kuang/da-yi-shang-cs-sheng-huo-yi-pie.md)
-* [专业创新创业项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/zhuan-ye-chuang-xin-chuang-ye-xiang-mu.md)
-* [重要学科竞赛简介](dui-wo-xiao-cs-de-chu-bu-ren-shi/zhong-yao-xue-ke-jing-sai-jian-jie.md)
-* [CS拔尖班](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-ba-jian-ban.md)
-* [“三早进”](dui-wo-xiao-cs-de-chu-bu-ren-shi/san-zao-jin/README.md)
-  * [AI俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/san-zao-jin/ai-ju-le-bu.md)
-  * [青春@计](dui-wo-xiao-cs-de-chu-bu-ren-shi/san-zao-jin/qing-chun-ji.md)
-  * [双创俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/san-zao-jin/shuang-chuang-ju-le-bu.md)
-* [CS系奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xi-jiang-xue-jin-ping-bi-xi-ze.md)
-* [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
-* [主要科研团队及研究方向](dui-wo-xiao-cs-de-chu-bu-ren-shi/zhu-yao-ke-yan-tuan-dui-ji-yan-jiu-fang-xiang.md)
 
 ## 工善欲其事，必先利其器 <a href="#zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben" id="zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben"></a>
 
@@ -55,22 +55,23 @@
 
 ## CS基础知识自学指南 <a href="#shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi" id="shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi"></a>
 
-* [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/c-yu-yan.md)
-* [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/gao-deng-shu-xue.md)
-* [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu.md)
-* [更进一步](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/geng-jin-yi-bu.md)
+* [CS基础能力](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-ji-chu-neng-li/README.md)
+  * [基础能力](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-ji-chu-neng-li/ji-chu-neng-li.md)
+* [编程语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/bian-cheng-yu-yan/README.md)
+  * [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/bian-cheng-yu-yan/c-yu-yan.md)
+* [数学基础](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/shu-xue-ji-chu/README.md)
+  * [高等数学](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/shu-xue-ji-chu/gao-deng-shu-xue.md)
+* [英语基础](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu-ji-chu/README.md)
+  * [英语](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/ying-yu-ji-chu/ying-yu.md)
+* [数据结构与算法](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/shu-ju-jie-gou-yu-suan-fa.md)
 
-## CS本科科研学习指南
+## CS本科发展指南
 
-* [Page 1](cs-ben-ke-ke-yan-xue-xi-zhi-nan/page-1.md)
-
-## CS本科竞赛学习指南
-
-* [Page 2](cs-ben-ke-jing-sai-xue-xi-zhi-nan/page-2.md)
-
-## CS本科项目&实习指南
-
-* [Page 3](cs-ben-ke-xiang-mu-shi-xi-zhi-nan/page-3.md)
+* [学术研究](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/README.md)
+  * [如果我向往科研，我在大一可以做什么？](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
+* [竞赛](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/README.md)
+  * [如果我向往竞赛，我在大一可以做什么？](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/ru-guo-wo-xiang-wang-jing-sai-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
+* [项目&实习](cs-ben-ke-fa-zhan-zhi-nan/xiang-mu-shi-xi.md)
 
 ## 一些伎俩
 
@@ -84,12 +85,11 @@
   * [扫荡MOOC](yi-xie-ji-liang/an-hei-jin-shu/sao-dang-mooc.md)
   * [重叠选课禁术](yi-xie-ji-liang/an-hei-jin-shu/zhong-die-xuan-ke-jin-shu.md)
 
-## Q\&A
+## 附录
 
-* [开学考计算机吗？](q-and-a/开学考计算机吗？.md)
-* [英语去A班好还是B班好？](q-and-a/英语去A班好还是B班好？.md)
-* [如何不上晚自习？](q-and-a/ru-he-bu-shang-wan-zi-xi.md)
-* [选课是什么样的？](q-and-a/xuan-ke-shi-shi-mo-yang-de.md)
-* [专业存在分流的情况吗？](q-and-a/zhuan-ye-cun-zai-fen-liu-de-qing-kuang-ma.md)
-* [如果我向往科研，我在大一可以做什么？](q-and-a/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
-* [如果我向往竞赛，我在大一可以做什么？](q-and-a/ru-guo-wo-xiang-wang-jing-sai-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
+* [常见Q\&A](fu-lu/chang-jian-qa/README.md)
+  * [开学考计算机吗？](fu-lu/chang-jian-qa/kai-xue-kao-ji-suan-ji-ma.md)
+  * [英语去A班好还是B班好？](fu-lu/chang-jian-qa/ying-yu-quaban-hao-huan-shibban-hao.md)
+  * [如何不上晚自习？](fu-lu/chang-jian-qa/ru-he-bu-shang-wan-zi-xi.md)
+  * [专业存在分流的情况吗？](fu-lu/chang-jian-qa/zhuan-ye-cun-zai-fen-liu-de-qing-kuang-ma.md)
+* [参考](fu-lu/can-kao.md)

@@ -1,5 +1,5 @@
 ---
-description: （will be deleted）
+description: （will be modefied）
 ---
 
 # CS学什么
