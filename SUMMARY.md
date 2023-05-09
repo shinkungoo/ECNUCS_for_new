@@ -5,7 +5,7 @@
 * [声明](README.md)
 * [第二版前言](xie-zi/di-er-ban-qian-yan.md)
 * [第一版前言](<README (1).md>)
-* [一些名词解释和缩写](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
+* [术语字典](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
 
 ## 觉悟
 
@@ -67,6 +67,7 @@
 
 ## CS本科发展指南
 
+* [转入该专业](cs-ben-ke-fa-zhan-zhi-nan/zhuan-ru-gai-zhuan-ye.md)
 * [学术研究](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/README.md)
   * [如果我向往科研，我在大一可以做什么？](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
 * [竞赛](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/README.md)
@@ -75,7 +76,6 @@
 
 ## 一些伎俩
 
-* [转专业面试问题](yi-xie-ji-liang/zhuan-zhuan-ye-mian-shi-wen-ti.md)
 * [更进一步：选课技巧与原则](yi-xie-ji-liang/geng-jin-yi-bu-xuan-ke-ji-qiao-yu-yuan-ze.md)
 * [备考指南](yi-xie-ji-liang/bei-kao-zhi-nan.md)
 * [成绩面面观](yi-xie-ji-liang/cheng-ji-mian-mian-guan.md)
