@@ -69,6 +69,7 @@
 
 * [转入该专业](cs-ben-ke-fa-zhan-zhi-nan/zhuan-ru-gai-zhuan-ye.md)
 * [学术研究](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/README.md)
+  * [科研准备](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/ke-yan-zhun-bei.md)
   * [如果我向往科研，我在大一可以做什么？](cs-ben-ke-fa-zhan-zhi-nan/xue-shu-yan-jiu/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
 * [竞赛](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/README.md)
   * [如果我向往竞赛，我在大一可以做什么？](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/ru-guo-wo-xiang-wang-jing-sai-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
