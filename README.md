@@ -14,6 +14,6 @@
 
 
 
-贡献者：[Shin\_Kungoo](https://github.com/shinkungoo)
+贡献者：[Shin\_Kungoo](https://github.com/shinkungoo), [PKFR4ever](https://github.com/PKFR4ever)
 
 笔者邮箱：[shenjh@stu.ecnu.edu.cn](mailto:shenjh@stu.ecnu.edu.cn)
