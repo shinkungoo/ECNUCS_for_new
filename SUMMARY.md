@@ -35,7 +35,8 @@
     * [青春@计](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/qing-chun-ji.md)
     * [双创俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/shuang-chuang-ju-le-bu.md)
     * [主要科研团队及研究方向](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/zhu-yao-ke-yan-tuan-dui-ji-yan-jiu-fang-xiang.md)
-  * [学院奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/xue-yuan-jiang-xue-jin-ping-bi-xi-ze.md)
+  * [学院奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-xi-jiang-xue-jin-ping-bi-xi-ze.md)
+  * [校长奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/xiao-chang-jiang-xue-jin-ping-bi-xi-ze.md)
   * [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
 * [进一步了解华东师大的CS](对我校CS的初步认识/华东师大的CS.md)
 
