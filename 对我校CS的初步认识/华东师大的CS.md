@@ -16,7 +16,7 @@ description: （will be deleted）
 
 该表格来自于2021年学校官网，信息仅供参考。
 
-{% embed url="https://docs.google.com/document/d/1ReN5usY39pXVG3nOW43sUJGV8J9yyof0R549j3izywY/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/document/d/1ReN5usY39pXVG3nOW43sUJGV8J9yyof0R549j3izywY/edit?usp=sharing" fullWidth="true" %}
 华东师范大学 制
 {% endembed %}
 
