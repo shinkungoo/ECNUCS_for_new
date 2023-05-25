@@ -30,7 +30,7 @@
   * [CS拔尖班](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-ba-jian-ban.md)
   * [重要学科竞赛简介](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/zhong-yao-xue-ke-jing-sai-jian-jie.md)
   * [专业创新创业项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/zhuan-ye-chuang-xin-chuang-ye-xiang-mu.md)
-  * [“三早进”](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/README.md)
+  * [三早进](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/README.md)
     * [AI俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/ai-ju-le-bu.md)
     * [青春@计](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/qing-chun-ji.md)
     * [双创俱乐部](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/san-zao-jin/shuang-chuang-ju-le-bu.md)
@@ -90,9 +90,9 @@
 
 ## 一些伎俩
 
+* [成绩面面观](yi-xie-ji-liang/cheng-ji-mian-mian-guan.md)
 * [更进一步：选课技巧与原则](yi-xie-ji-liang/geng-jin-yi-bu-xuan-ke-ji-qiao-yu-yuan-ze.md)
 * [备考指南](yi-xie-ji-liang/bei-kao-zhi-nan.md)
-* [成绩面面观](yi-xie-ji-liang/cheng-ji-mian-mian-guan.md)
 * [暗黑禁术](yi-xie-ji-liang/an-hei-jin-shu/README.md)
   * [思政论文书写技巧](yi-xie-ji-liang/an-hei-jin-shu/si-zheng-lun-wen-shu-xie-ji-qiao.md)
   * [实验报告书写技巧](yi-xie-ji-liang/an-hei-jin-shu/shi-yan-bao-gao-shu-xie-ji-qiao.md)
