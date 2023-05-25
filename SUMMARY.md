@@ -23,7 +23,7 @@
     * [专业课程风评](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/zhuan-ye-ke-cheng-feng-ping.md)
   * [培养计划](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/pei-yang-ji-hua.md)
   * [成绩评定方法](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/cheng-ji-ping-ding-fang-fa.md)
-  * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu.md)
+  * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu/README.md)
 * [CS特色制度与项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/README.md)
   * [CS拔尖班](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-ba-jian-ban.md)
   * [重要学科竞赛简介](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/zhong-yao-xue-ke-jing-sai-jian-jie.md)
@@ -37,9 +37,9 @@
   * [校长奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/xiao-chang-jiang-xue-jin-ping-bi-xi-ze.md)
   * [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
 * [以下部分都会重构](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/README.md)
-  * [专业学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/cs-de-xue-xi-ti-yan.md)
-  * [进一步了解华东师大的CS](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/hua-dong-shi-da-de-cs.md)
-  * [大一上CS生活一瞥](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/da-yi-shang-cs-sheng-huo-yi-pie.md)
+  * [专业学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
+  * [进一步了解华东师大的CS](对我校CS的初步认识/华东师大的CS.md)
+  * [大一上CS生活一瞥](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/da-yi-shang-cs-sheng-huo-yi-pie.md)
 
 ## 工善欲其事，必先利其器 <a href="#zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben" id="zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben"></a>
 
