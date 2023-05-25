@@ -55,11 +55,11 @@
 
 ## CS基础知识自学指南 <a href="#shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi" id="shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi"></a>
 
-* [CS专业能力](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/README.md)
-  * [基础能力](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/ji-chu-neng-li.md)
-  * [编程语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/bian-cheng-yu-yan/README.md)
-    * [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/bian-cheng-yu-yan/c-yu-yan.md)
-  * [数据结构与算法](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/shu-ju-jie-gou-yu-suan-fa.md)
+* [CS专业能力](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-ji-chu-neng-li/README.md)
+  * [基础能力](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-ji-chu-neng-li/ji-chu-neng-li.md)
+  * [编程语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/bian-cheng-yu-yan/README.md)
+    * [C语言](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/bian-cheng-yu-yan/c-yu-yan.md)
+  * [数据结构与算法](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/shu-ju-jie-gou-yu-suan-fa.md)
   * [计算机组成与实践](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/ji-suan-ji-zu-cheng-yu-shi-jian.md)
   * [操作系统](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/cs-zhuan-ye-neng-li/cao-zuo-xi-tong.md)
 * [数学基础](shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi/shu-xue-ji-chu/README.md)
@@ -75,8 +75,8 @@
 
 * [转入该专业](cs-ben-ke-fa-zhan-zhi-nan/zhuan-ru-gai-zhuan-ye.md)
 * [科研](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/README.md)
-  * [科研觉悟](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/ke-yan-jue-wu.md)
-  * [科研准备](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/ke-yan-zhun-bei.md)
+  * [科研觉悟](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/ke-yan-zhun-bei.md)
+  * [科研准备](<cs-ben-ke-fa-zhan-zhi-nan/ke-yan/ke-yan-zhun-bei (1).md>)
   * [选择导师](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/xuan-ze-dao-shi.md)
   * [结语](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/jie-yu.md)
   * [如果我向往科研，我在大一可以做什么？](cs-ben-ke-fa-zhan-zhi-nan/ke-yan/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)

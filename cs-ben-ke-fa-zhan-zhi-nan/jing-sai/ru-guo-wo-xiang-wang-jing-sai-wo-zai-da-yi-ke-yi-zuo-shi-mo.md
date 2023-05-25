@@ -44,35 +44,47 @@
 
 ## 二、网址索引
 
-ECNU OJ 程序设计能力实训 https://acm.ecnu.edu.cn/contest/43/
+ECNU OJ 程序设计能力实训： https://acm.ecnu.edu.cn/contest/43/
 
-牛客算法入门班 https://ac.nowcoder.com/courses/cover/live/724
+牛客算法入门班：https://ac.nowcoder.com/courses/cover/live/724
 
-acwing 算法基础课 https://www.acwing.com/activity/content/11/
+acwing 算法基础课：https://www.acwing.com/activity/content/11/
 
-洛谷的入门题单 https://www.luogu.com.cn/training/list
+洛谷的入门题单：https://www.luogu.com.cn/training/list
 
-洛谷的能力全面提升综合题单 https://www.luogu.com.cn/training/9391
+洛谷的能力全面提升综合题单：https://www.luogu.com.cn/training/9391
 
-codeforces https://codeforces.com/
+codeforces：https://codeforces.com/
 
-atcoder https://atcoder.jp/
+atcoder：https://atcoder.jp/
 
-书籍方面，算法竞赛知识更新迭代比较快。大概有几本经典书籍是人手一本，但学习的过程大多数是在视频、博客、刷题上。书本往往沦为比赛时的纸质模板~~或者书架的装饰~~。在此列举一些经典书籍。
+## 三、书籍推荐
 
-刘汝佳《算法竞赛入门经典》（紫书）：
+算法竞赛知识更新迭代比较快。大概有几本经典书籍是人手一本，但学习的过程大多数是在视频、博客、刷题上。书本往往沦为比赛时的纸质模板~~或者书架的装饰~~。在此列举一些经典书籍。
+
+<details>
+
+<summary>刘汝佳《算法竞赛入门经典》（紫书）</summary>
 
 内容丰富，算法全（尤其一些比较进阶的算法）。由于出版时间较早，书中选择的一些题目比较老旧，代码风格也与现在不太匹配。并且难度丝毫没有入门的自觉 ... ...不过还是会出现在所有入门指南上的经典书籍。
 
-《挑战程序设计竞赛》（白书）：
+</details>
+
+<details>
+
+<summary>《挑战程序设计竞赛》（白书）</summary>
 
 这个相对来说对入门选手比较友好，但涉及的算法有限，新手可以入一本。
 
-李煜东《算法竞赛进阶指南》（蓝书）：
+</details>
+
+<details>
+
+<summary>李煜东《算法竞赛进阶指南》（蓝书）</summary>
 
 ~~被队友安利到的一本书~~。个人比较习惯比赛时作为板子携带，印刷和代码风格易懂。难度比白书高一些，但总体来说涉及进阶算法仍然不算多。好像是一本偏 oi 的书，对于 icpc 中会出现的例如计算几何一类的题书中没有收录。
 
 以上三本书是我真的看过的，网上还有众多相关的书籍，因为没有看过就不再赘述了。其实在银牌及以下的阶段，涉及的算法在每本书里大同小异，并且我认为算法学习更多依靠网络资源，不用在书本的选择上过多纠结。
 
-
+</details>
 
