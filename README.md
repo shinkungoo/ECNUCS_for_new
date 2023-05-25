@@ -14,6 +14,6 @@
 
 
 
-贡献者（排名不分先后）：[Shin\_Kungoo](https://github.com/shinkungoo), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever)
+贡献者（按字典序排名）：[JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo)
 
 笔者联系邮箱：[shenjh@stu.ecnu.edu.cn](mailto:shenjh@stu.ecnu.edu.cn)
