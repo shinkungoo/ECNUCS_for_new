@@ -16,16 +16,14 @@
 
 ## 学院概况 <a href="#dui-wo-xiao-cs-de-chu-bu-ren-shi" id="dui-wo-xiao-cs-de-chu-bu-ren-shi"></a>
 
-* [CS学什么](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
-* [CS学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-de-xue-xi-ti-yan.md)
+* [专业概况](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-xue-shi-mo.md)
 * [优雅CSer指南](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/README.md)
-  * [大一上CS生活一瞥](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/da-yi-shang-cs-sheng-huo-yi-pie.md)
   * [选课技巧](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/README.md)
-    * [选课是什么样的？](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md)
+    * [选课机制](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md)
+    * [专业课程风评](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/zhuan-ye-ke-cheng-feng-ping.md)
   * [培养计划](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/pei-yang-ji-hua.md)
   * [成绩评定方法](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/cheng-ji-ping-ding-fang-fa.md)
-  * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu/README.md)
-    * [跨国（境）跨校交流](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu/kua-guo-jing-kua-xiao-jiao-liu.md)
+  * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu.md)
 * [CS特色制度与项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/README.md)
   * [CS拔尖班](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-ba-jian-ban.md)
   * [重要学科竞赛简介](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/zhong-yao-xue-ke-jing-sai-jian-jie.md)
@@ -38,7 +36,10 @@
   * [学院奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/cs-xi-jiang-xue-jin-ping-bi-xi-ze.md)
   * [校长奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/xiao-chang-jiang-xue-jin-ping-bi-xi-ze.md)
   * [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
-* [进一步了解华东师大的CS](对我校CS的初步认识/华东师大的CS.md)
+* [以下部分都会重构](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/README.md)
+  * [专业学习体验](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/cs-de-xue-xi-ti-yan.md)
+  * [进一步了解华东师大的CS](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/hua-dong-shi-da-de-cs.md)
+  * [大一上CS生活一瞥](dui-wo-xiao-cs-de-chu-bu-ren-shi/yi-xia-bu-fen-du-hui-zhong-gou/da-yi-shang-cs-sheng-huo-yi-pie.md)
 
 ## 工善欲其事，必先利其器 <a href="#zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben" id="zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben"></a>
 
@@ -53,6 +54,7 @@
   * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
   * [Joplin](准备一个CS学生的笔记本/参考应用清单/joplin.md)
 * [教材选购指南](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/jiao-cai-xuan-gou-zhi-nan.md)
+* [学习书籍](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/xue-xi-shu-ji.md)
 
 ## CS基础知识自学指南 <a href="#shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi" id="shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi"></a>
 
@@ -88,6 +90,7 @@
 * [实习](cs-ben-ke-fa-zhan-zhi-nan/shi-xi.md)
 * [考研](cs-ben-ke-fa-zhan-zhi-nan/kao-yan.md)
 * [出国（境）交换](cs-ben-ke-fa-zhan-zhi-nan/chu-guo-jing-jiao-huan.md)
+* [留学](cs-ben-ke-fa-zhan-zhi-nan/liu-xue.md)
 
 ## 一些伎俩
 
