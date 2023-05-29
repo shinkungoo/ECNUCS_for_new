@@ -7,7 +7,7 @@
 {% hint style="info" %}
 如果阅读该文档很卡顿并出现以下的情况，可以点击一下“重装”看能否查看
 
-<img src=".gitbook/assets/1322bd041f6fb19d2f560037f5f6cc4.png" alt="" data-size="original">
+<img src=".gitbook/assets/Screenshot 2023-05-29 at 20.58.02.png" alt="" data-size="original">
 
 如果仍然不可，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)阅读该文档
 {% endhint %}
