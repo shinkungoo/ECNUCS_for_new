@@ -6,6 +6,8 @@
 
 笔者一个人的力量实在有限，很难做到将计算机学科的各个方面都描述清楚，因此也四处求助各位计算机学科相关专业的“大佬”帮助完善其中的诸多部分：
 
+感谢[Cdccc1](https://github.com/Cdccc1)拨冗撰写“转入该专业”部分；
+
 感谢[JamSlade](https://github.com/JamSlade)拨冗撰写“实习”“专业课程风评”部分；
 
 感谢[PKFR4ever](https://github.com/PKFR4ever)拨冗撰写“竞赛”部分；
