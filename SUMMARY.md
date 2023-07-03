@@ -10,9 +10,9 @@
 ## 觉悟
 
 * [欢迎来到华东师范大学](jue-wu/huan-ying-lai-dao-hua-dong-shi-fan-da-xue.md)
-* [大学思维几则](jue-wu/da-xue-si-wei-ji-ze.md)
+* [错误思维](jue-wu/da-xue-si-wei-ji-ze.md)
 * [时间管理](jue-wu/shi-jian-guan-li.md)
-* [今天也是追逐热爱的一天](jue-wu/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
+* [你为什么学计算机？](jue-wu/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
 
 ## 学院概况 <a href="#dui-wo-xiao-cs-de-chu-bu-ren-shi" id="dui-wo-xiao-cs-de-chu-bu-ren-shi"></a>
 
