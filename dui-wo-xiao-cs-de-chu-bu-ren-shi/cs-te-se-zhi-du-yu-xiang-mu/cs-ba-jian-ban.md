@@ -7,7 +7,7 @@ description: 参考2022年8月拔尖班相关资料编写
 选拔拔尖班是于2022年成立于信息学部的特殊班级体系，其隶属于数据科学与大数据技术专业，加入该班级的好处包括但不限于
 
 1. 在各种交换交流项目中<mark style="color:yellow;">**具有优先权**</mark>；
-2. 专业必修课和专业选修课<mark style="color:yellow;">**不按照排名给绩点**</mark>（关于绩点参考[成绩评定方法](../you-ya-cser-zhi-nan/cheng-ji-ping-ding-fang-fa.md)），而是按照按照三级制给成绩；
+2. 专业必修课和专业选修课<mark style="color:yellow;">**不按照排名给绩点**</mark>（关于绩点参考[成绩评定方法](../../wei-wan-cheng/cheng-ji-ping-ding-fang-fa.md)），而是按照按照三级制给成绩；
 3. 项目化教学荣誉课程，且不按照排名给绩点，而是按照五档制给成绩；
 
 因此如果有能力，一定要尝试参加——不论是保研还是出国都是利好。
