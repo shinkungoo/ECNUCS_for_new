@@ -110,6 +110,8 @@
   * [如何不上晚自习？](fu-lu/chang-jian-qa/ru-he-bu-shang-wan-zi-xi.md)
   * [专业存在分流的情况吗？](fu-lu/chang-jian-qa/zhuan-ye-cun-zai-fen-liu-de-qing-kuang-ma.md)
 * [参考](fu-lu/can-kao.md)
-* [未完成](fu-lu/wei-wan-cheng/README.md)
-  * [时间管理](fu-lu/wei-wan-cheng/shi-jian-guan-li.md)
-  * [你为什么学计算机？](fu-lu/wei-wan-cheng/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
+
+## 未完成
+
+* [时间管理](wei-wan-cheng/shi-jian-guan-li.md)
+* [你为什么学计算机？](wei-wan-cheng/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
