@@ -12,8 +12,6 @@
 
 * [欢迎来到华东师范大学](jue-wu/huan-ying-lai-dao-hua-dong-shi-fan-da-xue.md)
 * [错误思维](jue-wu/da-xue-si-wei-ji-ze.md)
-* [时间管理](jue-wu/shi-jian-guan-li.md)
-* [你为什么学计算机？](jue-wu/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
 
 ## 学院概况 <a href="#dui-wo-xiao-cs-de-chu-bu-ren-shi" id="dui-wo-xiao-cs-de-chu-bu-ren-shi"></a>
 
@@ -112,3 +110,6 @@
   * [如何不上晚自习？](fu-lu/chang-jian-qa/ru-he-bu-shang-wan-zi-xi.md)
   * [专业存在分流的情况吗？](fu-lu/chang-jian-qa/zhuan-ye-cun-zai-fen-liu-de-qing-kuang-ma.md)
 * [参考](fu-lu/can-kao.md)
+* [未完成](fu-lu/wei-wan-cheng/README.md)
+  * [时间管理](fu-lu/wei-wan-cheng/shi-jian-guan-li.md)
+  * [你为什么学计算机？](fu-lu/wei-wan-cheng/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
