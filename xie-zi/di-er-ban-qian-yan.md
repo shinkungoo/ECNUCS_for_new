@@ -24,17 +24,19 @@
 
 最后，看着她穿着连衣裙在天与海间，突发奇想：
 
-_夏日的海风微微吹拂，_
+_<mark style="color:blue;">夏日的海风微微吹拂，</mark>_
 
-_轻抚沙子漫步。_
+_<mark style="color:blue;">轻抚沙子漫步。</mark>_
 
-_白色的长裙翩翩起舞，_
+_<mark style="color:blue;">白色的长裙翩翩起舞，</mark>_
 
-_海边鲜花成簇。_
+_<mark style="color:blue;">海边鲜花成簇。</mark>_
 
 
 
-Shin\_Kungoo
+再次感谢每一位读者阅读本手册！
 
-2023年7月10日夜于香港大学
+_Shin\_Kungoo_
+
+2023年7月12日夜于香港大学
 
