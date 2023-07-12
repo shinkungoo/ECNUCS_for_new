@@ -20,7 +20,6 @@
   * [选课技巧](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/README.md)
     * [选课机制](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md)
     * [专业课程风评](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/zhuan-ye-ke-cheng-feng-ping.md)
-  * [培养计划](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/pei-yang-ji-hua.md)
   * [成绩评定方法](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/cheng-ji-ping-ding-fang-fa.md)
   * [学校常用网页名录](dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu/README.md)
 * [CS特色制度与项目](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/README.md)
@@ -115,3 +114,4 @@
 
 * [时间管理](wei-wan-cheng/shi-jian-guan-li.md)
 * [你为什么学计算机？](wei-wan-cheng/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
+* [培养计划](wei-wan-cheng/pei-yang-ji-hua.md)
