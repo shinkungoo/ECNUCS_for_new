@@ -50,9 +50,9 @@
 
 [acwing 算法基础课](https://www.acwing.com/activity/content/11/)
 
-[洛谷的入门题单](http://localhost:5000/s/i4fQWeF5aBBogU7SNXU5/the-company)
+[洛谷的入门题单](broken-reference)
 
-[洛谷的能力全面提升综合题单](http://localhost:5000/s/i4fQWeF5aBBogU7SNXU5/the-company)
+[洛谷的能力全面提升综合题单](broken-reference)
 
 [codeforces](https://codeforces.com/)
 

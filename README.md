@@ -6,7 +6,11 @@
 
 如果阅读该文档很卡顿并出现以下的情况，可以点击一下“重装”看能否查看
 
-<img src=".gitbook/assets/Screenshot 2023-05-29 at 20.58.02.png" alt="" data-size="original">
+<div align="left" data-full-width="false">
+
+<figure><img src=".gitbook/assets/reload.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 如果仍然不可，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)阅读该文档
 
