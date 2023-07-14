@@ -30,7 +30,7 @@ description: Shin_Kungoo
 
 考核流程如下图所示。笔试考察学生<mark style="color:yellow;">**数学逻辑与英语基础**</mark>，考试形式为闭卷（获得全国中学生信息学奥林匹克竞赛提高组省一等奖的同学可免于参加笔试）。根据报名人数与笔试成绩确定进入面试的学生人数，但进入面试的学生人数会<mark style="color:yellow;">**严格控制在 50 名之内**</mark>。通过笔试的学生与免试学生进入综合面试， 第一轮面试分组进行，按照面试成绩每组的前 40%进入预录取名单。第二轮面试考察每组面试成绩位于40%-60%的学生，并确定最终的预录取名单。
 
-<figure><img src="../../.gitbook/assets/file.excalidraw.svg" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="选拔流程" class="gitbook-drawing">
 
 ### 退出
 
