@@ -1,8 +1,12 @@
 ---
-description: 计算机科学与技术学院本科生奖学金评定细则（2022年9月修订）
+description: Shin_Kungoo
 ---
 
 # 学院奖学金评比细则
+
+{% hint style="info" %}
+计算机科学与技术学院本科生奖学金评定细则（2022年9月修订）
+{% endhint %}
 
 ## 一、申请条件
 

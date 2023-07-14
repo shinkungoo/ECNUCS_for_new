@@ -1,3 +1,7 @@
+---
+description: Shin_Kungoo
+---
+
 # 学校常用网页名录
 
 {% hint style="success" %}

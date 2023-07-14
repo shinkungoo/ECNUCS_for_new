@@ -1,10 +1,12 @@
 ---
-description: 2022年度校长奖学金评审工作的通知
+description: Shin_Kungoo
 ---
 
 # 校长奖学金评比细则
 
 {% hint style="info" %}
+2022年度校长奖学金评审工作的通知
+
 校长奖学金是一份殊荣，以此为目标努力学习，但是几大部分人都没办法得到。
 {% endhint %}
 
