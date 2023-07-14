@@ -12,7 +12,7 @@
 
 感谢[PKFR4ever](https://github.com/PKFR4ever)拨冗撰写“竞赛”部分；
 
-感谢uniecho1拨冗撰写“竞赛”部分。
+感谢[uniecho1](https://acm.ecnu.edu.cn/wiki/index.php?title=NULL\_\(2019\))拨冗撰写“竞赛”部分。
 
 在此，诚挚地感谢每一位贡献者的撰写。
 

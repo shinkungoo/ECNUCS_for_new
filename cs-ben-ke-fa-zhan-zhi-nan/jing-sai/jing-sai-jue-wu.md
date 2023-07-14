@@ -1,3 +1,7 @@
+---
+description: uniecho1
+---
+
 # 竞赛觉悟
 
 {% hint style="danger" %}

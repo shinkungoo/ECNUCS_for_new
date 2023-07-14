@@ -72,6 +72,8 @@
 * [竞赛](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/README.md)
   * [竞赛觉悟](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/jing-sai-jue-wu.md)
   * [无基础篇](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/ru-guo-wo-xiang-wang-jing-sai-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
+  * [有基础篇&进阶篇](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/you-ji-chu-pian-jin-jie-pian.md)
+  * [后篇](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/hou-pian.md)
 * [项目](cs-ben-ke-fa-zhan-zhi-nan/xiang-mu.md)
 * [实习](cs-ben-ke-fa-zhan-zhi-nan/shi-xi.md)
 * [考研](cs-ben-ke-fa-zhan-zhi-nan/kao-yan.md)

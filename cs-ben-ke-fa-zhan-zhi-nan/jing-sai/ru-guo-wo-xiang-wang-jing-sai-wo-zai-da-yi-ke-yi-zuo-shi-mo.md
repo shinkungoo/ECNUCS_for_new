@@ -1,3 +1,7 @@
+---
+description: PKFR4ever
+---
+
 # 无基础篇
 
 ## 一、入门路径：
@@ -50,9 +54,9 @@
 
 [acwing 算法基础课](https://www.acwing.com/activity/content/11/)
 
-[洛谷的入门题单](broken-reference)
+[洛谷的入门题单](https://www.luogu.com.cn/training/list)
 
-[洛谷的能力全面提升综合题单](broken-reference)
+[洛谷的能力全面提升综合题单](https://www.luogu.com.cn/training/9391)
 
 [codeforces](https://codeforces.com/)
 
@@ -88,3 +92,22 @@
 
 </details>
 
+## 四、其它一些可供参考的指南和资料
+
+（部分可能需要[VPN](../../准备一个CS学生的笔记本/参考应用清单/vpn.md#xue-xiao-vpn)）
+
+* 某日本著名选手写的 \[A way to Practice Competitive Programming : From Rating 1000 to 2400+]
+
+https://codeforces.com/blog/entry/66909
+
+* Um\_nik \[How to practice Competitive Programming ]
+
+https://codeforces.com/blog/entry/98806
+
+* 算法学习笔记 by Pecco
+
+https://zhuanlan.zhihu.com/p/105467597?utm\_medium=social\&utm\_oi=900051642823610368\&utm\_psn=1644789923470385152\&utm\_source=qq
+
+* "ACM的正确入门方式是什么“问题下的一篇回答
+
+https://www.zhihu.com/question/51727516/answer/2286941468
