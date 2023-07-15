@@ -2,11 +2,10 @@
 
 ## 楔子
 
-* [声明](README.md)
-* [第二版前言](xie-zi/di-er-ban-qian-yan.md)
-* [第一版前言](<README (1).md>)
+* [README](README.md)
+* [第二版前言](xie-zi/foreword-2.md)
+* [第一版前言](xie-zi/foreword-1.md)
 * [术语字典](qian-fu-lu-yi-xie-ming-ci-de-suo-xie.md)
-* [版本记录](xie-zi/ban-ben-ji-lu.md)
 
 ## 觉悟
 
