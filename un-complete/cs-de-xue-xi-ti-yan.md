@@ -28,7 +28,7 @@ CS这个专业虽然就业、研究甚至润都很好，但并不是没有代价
 
 公共课：中国近现代史纲要、思想道德与法治、军事理论、体育
 
-当然也可以选些其他的通识课（不推荐这样做，因为第一学期只有体育课没有选，也就是说如果不给体育课最大的权重比的话，很有可能会掉课，详见[xuan-ke-shi-shi-mo-yang-de.md](../dui-wo-xiao-cs-de-chu-bu-ren-shi/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md "mention")问题）
+当然也可以选些其他的通识课（不推荐这样做，因为第一学期只有体育课没有选，也就是说如果不给体育课最大的权重比的话，很有可能会掉课，详见[xuan-ke-shi-shi-mo-yang-de.md](../school-profile/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md "mention")问题）
 
 数学分析这门课是比较困难的数学基础课，**这门课从一开始就不要掉队**，否则很容易期中期末亮红灯，上期挂完下学期接着挂。而且这门课每个老师的讲授水平不一，一旦发现自己无法接受这个老师的讲授时，立马开启网课学习模式，千万千万不要摆烂。
 

@@ -33,7 +33,7 @@
 
 * 如果您不会使用Git工具，可以编辑`.doc/.docx/.md`文件（请不要使用pdf文件） 并将其发送到笔者联系邮箱，笔者会将其编辑，并在成文后邮件回复。
 * 如果您会使用Git工具，可以在gitbook网站上利用github账号登录，fork [该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)到个人账户，并将其导入repository。在gitbook上修完并commit到自己的repository后，提交pull request。在review之后将会合并到main branch。
-* 同样地，可以在github仓库中对应文件夹直接提交pull request。<mark style="color:red;">**请注意，你的文件名只能使用英文小写字符，且空格使用**</mark><mark style="color:red;">**`-`**</mark><mark style="color:red;">**代替**</mark>**。**在完成review后会将其合并到main branch中。
+* 同样地，可以在github仓库中对应文件夹直接提交pull request。<mark style="color:red;">**请注意，你的文件名只能使用英文小写字符，且空格使用**</mark><mark style="color:red;">**`-`**</mark><mark style="color:red;">**代替**</mark>。在完成review后会将其合并到main branch中。
 
 ## 版本记录
 
@@ -49,7 +49,7 @@
 
 ### 2023年7月14日
 
-* [x] 完成了[竞赛](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/)章节和作者的标注
+* [x] 完成了[竞赛](further-learning/jing-sai/)章节和作者的标注
 * [x] 已有的章节也完成了作者的标注
 * [x] 更新了选Win、Mac还是Linux
 * [ ] 修订[参考应用清单](preparation/reference-list/)。
