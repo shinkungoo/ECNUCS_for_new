@@ -4,7 +4,7 @@
 
 《一本书入门ECNU计算机科学与技术本科》（后称“入门书”）作为一本公益性质手册，旨在帮助学习计算机科学与技术专业的本科学弟学妹能够在做出自己决定的时候有一本可以参考的资料集合。在编写手册时，笔者参考了大量的现存学校资料、学校院系资料和自己收集的资料，但无法保证其时效性和准确性，因此希望各位阅读时批判性地吸取其中内容。
 
-限于笔者的水平，文中或有不当之处，还望各位读者不吝赐教，读者可以发送邮件到笔者的邮箱中。笔者无法保证回复每一封邮件，每一条建议均会被认真考虑，并在后续版本中做出相应的改进。如果喜欢这本书，希望可以给[该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)一个Star——你的支持是笔者不断改进的动力。
+如果喜欢这本书，希望可以给[该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)一个Star——你的支持是笔者不断改进的动力。
 
 如果阅读该文档很卡顿并出现以下的情况，可以点击一下“重装”看能否查看
 
@@ -14,26 +14,47 @@
 
 </div>
 
-如果仍然不可，那么可以使用一个[VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)阅读该文档
+如果仍然不可，那么可以使用一个[VPN](preparation/reference-list/vpn.md)阅读该文档
 
 贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [uniecho1](https://github.com/uniecho1)
 
 笔者联系邮箱：[shenjh@stu.ecnu.edu.cn](mailto:shenjh@stu.ecnu.edu.cn)
 
+## 如何改进
+
+限于笔者的水平，文中或有不当之处，还望各位读者不吝赐教，读者可以：
+
+* 发送邮件至笔者的邮箱中
+* 在[该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)提交Issue
+
+笔者无法保证回复每一封邮件和Issue，但您的每一条建议都会被认真的考虑，并在后续版本中做出想要的改进。
+
+## 成为贡献者
+
+因为手册内容极其繁多，故一木难成秀林。笔者在这里诚恳地希望能有学长学姐拨冗供稿，提供自己的经验，为华东师大的计算机学子提供一些参考和帮助。
+
+* 如果您不会使用Git工具，可以编辑`.doc/.docx/.md`文件（请不要使用pdf文件） 并将其发送到笔者联系邮箱，笔者会将其编辑，并在成文后邮件回复。
+* 如果您会使用Git工具，可以在对应的文本路径下
+
+
+
 ## 版本记录
 
-**本记录时间线从第二版开始。**
+{% hint style="info" %}
+本版本记录从第二版开始
+{% endhint %}
 
 ### 2023年7月15日
 
 * [x] 添加了MIT License
+* [x] 规则化目录
 
 ### 2023年7月14日
 
 * [x] 完成了[竞赛](cs-ben-ke-fa-zhan-zhi-nan/jing-sai/)章节和作者的标注
 * [x] 已有的章节也完成了作者的标注
 * [x] 更新了选Win、Mac还是Linux
-* [ ] 修订[参考应用清单](准备一个CS学生的笔记本/参考应用清单/)。
+* [ ] 修订[参考应用清单](preparation/reference-list/)。
 
 ### 2023年7月12日
 

@@ -27,22 +27,22 @@
   * [校长奖学金评比细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/xiao-chang-jiang-xue-jin-ping-bi-xi-ze.md)
   * [研究生推免（保研）细则](dui-wo-xiao-cs-de-chu-bu-ren-shi/cs-te-se-zhi-du-yu-xiang-mu/yan-jiu-sheng-tui-mian-bao-yan-xi-ze.md)
 
-## 工善欲其事，必先利其器 <a href="#zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben" id="zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben"></a>
+## 工善欲其事，必先利其器 <a href="#preparation" id="preparation"></a>
 
-* [选购计算机](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/ji-suan-ji-de-ying-jian-pei-zhi.md)
-* [选Win、Mac还是Linux](准备一个CS学生的笔记本/选Win-Mac还是Linux.md)
-* [参考应用清单](准备一个CS学生的笔记本/参考应用清单/README.md)
-  * [IDE](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/ide/README.md)
-    * [Devcpp](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/ide/devcpp.md)
-    * [CodeBlocks](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/ide/codeblocks.md)
-    * [JetBrains全家桶](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/ide/jetbrains-quan-jia-tong.md)
-  * [笔记](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/bi-ji/README.md)
-    * [Joplin](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/can-kao-ying-yong-qing-dan/bi-ji/joplin.md)
-  * [Visual Studio Code](准备一个CS学生的笔记本/参考应用清单/visual-studio-code.md)
-  * [Github](准备一个CS学生的笔记本/参考应用清单/github-desktop.md)
-  * [VPN](准备一个CS学生的笔记本/参考应用清单/vpn.md)
-* [教材选购指南](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/jiao-cai-xuan-gou-zhi-nan.md)
-* [学习书籍](zhun-bei-yi-ge-cs-xue-sheng-de-bi-ji-ben/xue-xi-shu-ji.md)
+* [选购计算机](preparation/xuan-gou-ji-suan-ji.md)
+* [选Win、Mac还是Linux](preparation/xuan-winmac-hai-shi-linux.md)
+* [参考应用清单](preparation/reference-list/README.md)
+  * [IDE](preparation/reference-list/ide/README.md)
+    * [Devcpp](preparation/reference-list/ide/devcpp.md)
+    * [CodeBlocks](preparation/reference-list/ide/codeblocks.md)
+    * [JetBrains全家桶](preparation/reference-list/ide/jetbrains-quan-jia-tong.md)
+  * [笔记](preparation/reference-list/bi-ji/README.md)
+    * [Joplin](preparation/reference-list/bi-ji/joplin.md)
+  * [Visual Studio Code](preparation/reference-list/visual-studio-code.md)
+  * [Github](preparation/reference-list/github-desktop.md)
+  * [VPN](preparation/reference-list/vpn.md)
+* [教材选购指南](preparation/jiao-cai-xuan-gou-zhi-nan.md)
+* [学习书籍](preparation/xue-xi-shu-ji.md)
 
 ## CS基础知识自学指南 <a href="#shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi" id="shu-jia-li-ke-yi-zuo-de-jian-dan-yu-xi"></a>
 

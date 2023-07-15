@@ -94,7 +94,7 @@ description: PKFR4ever
 
 ## 四、其它一些可供参考的指南和资料
 
-（部分可能需要[VPN](../../准备一个CS学生的笔记本/参考应用清单/vpn.md#xue-xiao-vpn)）
+（部分可能需要[VPN](../../preparation/reference-list/vpn.md#xue-xiao-vpn)）
 
 * 某日本著名选手写的 \[A way to Practice Competitive Programming : From Rating 1000 to 2400+]
 
