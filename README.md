@@ -1,7 +1,5 @@
 # README
 
-## 前言
-
 《一本书入门ECNU计算机科学与技术本科》（后称“入门书”）作为一本公益性质手册，旨在帮助学习计算机科学与技术专业的本科学弟学妹能够在做出自己决定的时候有一本可以参考的资料集合。在编写手册时，笔者参考了大量的现存学校资料、学校院系资料和自己收集的资料，但无法保证其时效性和准确性，因此希望各位阅读时批判性地吸取其中内容。
 
 如果喜欢这本书，希望可以给[该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)一个Star——你的支持是笔者不断改进的动力。
@@ -34,9 +32,8 @@
 因为手册内容极其繁多，故一木难成秀林。笔者在这里诚恳地希望能有学长学姐拨冗供稿，提供自己的经验，为华东师大的计算机学子提供一些参考和帮助。
 
 * 如果您不会使用Git工具，可以编辑`.doc/.docx/.md`文件（请不要使用pdf文件） 并将其发送到笔者联系邮箱，笔者会将其编辑，并在成文后邮件回复。
-* 如果您会使用Git工具，可以在对应的文本路径下
-
-
+* 如果您会使用Git工具，可以在gitbook网站上利用github账号登录，fork [该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)到个人账户，并将其导入repository。在gitbook上修完并commit到自己的repository后，提交pull request。在review之后将会合并到main branch。
+* 同样地，可以在github仓库中对应文件夹直接提交pull request。<mark style="color:red;">**请注意，你的文件名只能使用英文小写字符，且空格使用**</mark><mark style="color:red;">**`-`**</mark><mark style="color:red;">**代替**</mark>**。**在完成review后会将其合并到main branch中。
 
 ## 版本记录
 
@@ -47,6 +44,7 @@
 ### 2023年7月15日
 
 * [x] 添加了MIT License
+* [x] 调整了README，使其更加清晰
 * [x] 规则化目录
 
 ### 2023年7月14日
