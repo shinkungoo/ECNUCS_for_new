@@ -35,6 +35,19 @@
 * 如果您会使用Git工具，可以在gitbook网站上利用github账号登录，fork [该仓库](https://github.com/shinkungoo/ECNUCS\_for\_new)到个人账户，并将其导入repository。在gitbook上修完并commit到自己的repository后，提交pull request。在review之后将会合并到main branch。
 * 同样地，可以在github仓库中对应文件夹直接提交pull request。<mark style="color:red;">**请注意，你的文件名只能使用英文小写字符，且空格使用**</mark><mark style="color:red;">**`-`**</mark><mark style="color:red;">**代替**</mark>。在完成review后会将其合并到main branch中。
 
+在编辑前，您需要知道当前手册的目录结构。几个主要的板块和对应的文件夹目录如下：
+
+* `.gitbook/assets`：<mark style="color:red;">**禁止直接在该文件夹中提交任何文件。**</mark>如果您文件需要图片，请使用gitbook编辑，或联系笔者添加您发送的图片。
+* `appendix`：对应篇章为“目录”；请不要改变该章节的两个大标题（即“参考”与“常见Q\&A”），但是您可以编辑对应的章节。
+* `basic-learning`：对应篇章为“CS基础知识自学指南”；请不要改变章节的三个大标题（即“CS专业能力”“数学基础”与“英语基础”），但是您可以在三个章节下添加各种学习资料，同时也希望您可以对所添加的学习资料做出自己主观的评价和学习建议。
+* `further-learning`：对应篇章为“CS本科发展指南”；你可以添加经验、案例和攻略到对应的栏目中，也可以编辑和添加对应的栏目。
+* `kakugo`：对应篇章为“觉悟”；这个文章是一些心理建设，一般不会再编辑。
+* `preparation`：对应篇章为“工善欲其事，必先利其器”，这个章节可以自由编辑，主要是面向**新生准备**书写文档。
+* `school-profile`：对应篇章“学院概况”；一般不添加新栏目，主要是根据时间修订已有的内容。
+* `tricks`：对应篇章为“一些技俩”，可以随意编辑该部分栏目。
+* `un-complete`：对应篇章“未完成”；<mark style="color:red;">**该栏目禁止任何编辑与调整**</mark>。
+* `wedge`：对应篇章“楔子”；<mark style="color:red;">**该栏目禁止任何编辑与调整**</mark>。
+
 ## 版本记录
 
 {% hint style="info" %}
@@ -44,7 +57,7 @@
 ### 2023年7月15日
 
 * [x] 添加了MIT License
-* [x] 调整了README，使其更加清晰
+* [x] 调整了README，使其更加清晰（包括目录结构与成为贡献者等）
 * [x] 规则化目录
 
 ### 2023年7月14日
