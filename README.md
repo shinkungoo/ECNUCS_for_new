@@ -46,13 +46,18 @@
 * `school-profile`：对应篇章“学院概况”；一般不添加新栏目，主要是根据时间修订已有的内容。
 * `tricks`：对应篇章为“一些技俩”，可以随意编辑该部分栏目。
 * `un-complete`：对应篇章“未完成”；<mark style="color:red;">**该栏目禁止任何编辑与调整**</mark>。
-* `wedge`：对应篇章“楔子”；<mark style="color:red;">**该栏目禁止任何编辑与调整**</mark>。
+* `wedge`：对应篇章“楔子”；除了“术语字典”可以编辑外，<mark style="color:red;">**该栏目禁止任何编辑与调整（但是可以**</mark>
 
 ## 版本记录
 
 {% hint style="info" %}
 本版本记录从第二版开始
 {% endhint %}
+
+### 2023年7月17日
+
+* [ ] （[shynur](https://github.com/shynur)）修复了README和大标题中的许多拼写、语法和事实上的错误。
+*
 
 ### 2023年7月15日
 
