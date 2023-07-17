@@ -12,7 +12,7 @@
 
 感谢[PKFR4ever](https://github.com/PKFR4ever)拨冗撰写“竞赛”部分；
 
-感谢[shynur](https://github.com/shynur)拨冗对文章中的大量错误进行更正，撰写了“Geek-World”部分。
+感谢[shynur](https://github.com/shynur)拨冗对文章中的大量错误进行更正，撰写了“工具链”“项目”部分。
 
 感谢[uniecho1](https://github.com/uniecho1)拨冗撰写“竞赛”部分。
 
