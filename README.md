@@ -18,6 +18,8 @@
 
 贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [shynur](https://github.com/shynur), [uniecho1](https://github.com/uniecho1)
 
+特别鸣谢：皮皮姐
+
 笔者联系邮箱：[shenjh@stu.ecnu.edu.cn](mailto:shenjh@stu.ecnu.edu.cn)
 
 ## 如何改进
