@@ -14,7 +14,7 @@
 
 如果仍然不可，那么可以使用一个[VPN](preparation/reference-list/vpn.md)阅读该文档
 
-对应文档链接：[https://jhshen.gitbook.io/csfornew](https://jhshen.gitbook.io/csfornew/)
+本文档可以在线阅读，对应链接：[https://jhshen.gitbook.io/csfornew](https://jhshen.gitbook.io/csfornew/)
 
 贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [shynur](https://github.com/shynur), [uniecho1](https://github.com/uniecho1)
 
@@ -58,8 +58,10 @@
 
 ### 2023年7月17日
 
-* [ ] （[shynur](https://github.com/shynur)）修复了README和大标题中的许多拼写、语法和事实上的错误。
-*
+* [x] 修订了README，更改了部分贡献规则。
+* [x] （[shynur](https://github.com/shynur)）修复了README和大标题中的许多拼写、语法和事实上的错误。
+* [x] （[shynur](https://github.com/shynur)）增加了Geek-World栏目，笔者将它们重新编辑到了对应栏目。
+* [x] 修订[参考应用清单](preparation/reference-list/)。
 
 ### 2023年7月15日
 
