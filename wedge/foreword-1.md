@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/cover-1.jpg
+coverY: 44
+---
+
 # 第一版前言
 
 [本GitBook](https://jhshen.gitbook.io/csfornew/)面向对CS专业完全不知道的ECNUer本科生

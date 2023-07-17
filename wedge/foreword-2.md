@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/cover.jpg
-coverY: 13
+cover: ../.gitbook/assets/cover-2.jpg
+coverY: 10
 ---
 
 # 第二版前言
