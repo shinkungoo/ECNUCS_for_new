@@ -14,7 +14,7 @@
 
 如果仍然不可，那么可以使用一个[VPN](preparation/reference-list/vpn.md)阅读该文档
 
-贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [uniecho1](https://github.com/uniecho1)
+贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [shynur](https://github.com/shynur), [uniecho1](https://github.com/uniecho1)
 
 笔者联系邮箱：[shenjh@stu.ecnu.edu.cn](mailto:shenjh@stu.ecnu.edu.cn)
 
