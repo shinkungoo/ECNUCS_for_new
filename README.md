@@ -16,7 +16,7 @@
 
 本文档可以在线阅读，对应链接：[https://jhshen.gitbook.io/csfornew](https://jhshen.gitbook.io/csfornew/)
 
-贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [shynur](https://github.com/shynur), [uniecho1](https://github.com/uniecho1)
+贡献者（按字典序排名）：[Cdccc1](https://github.com/Cdccc1), [JamSlade](https://github.com/JamSlade), [0warning0error](https://github.com/0warning0error), [PKFR4ever](https://github.com/PKFR4ever), [Shin\_Kungoo](https://github.com/shinkungoo), [shynur](https://github.com/shynur), [uniecho1](https://github.com/uniecho1)
 
 特别鸣谢：皮皮姐
 
@@ -67,6 +67,10 @@
 {% hint style="info" %}
 本版本记录从第二版开始
 {% endhint %}
+
+### 2023年7月21日
+
+* [x] （[0warning0error](https://github.com/shinkungoo/ECNUCS\_for\_new/commits?author=0warning0error)）修订了错误思维，VPN部分
 
 ### 2023年7月17日
 

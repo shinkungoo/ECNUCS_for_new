@@ -15,6 +15,8 @@ coverY: 10
 
 感谢[JamSlade](https://github.com/JamSlade)拨冗撰写“实习”“专业课程风评”部分；
 
+感谢[0warning0error](https://github.com/0warning0error)拨冗撰写“错误思维”“VPN”部分；
+
 感谢[PKFR4ever](https://github.com/PKFR4ever)拨冗撰写“竞赛”部分；
 
 感谢[shynur](https://github.com/shynur)拨冗对文章中的大量错误进行更正，撰写了“工具链”“项目”部分。
