@@ -4,6 +4,8 @@
 {% tab title="学校VPN" %}
 直接访问这里[下载](https://docs.ecnu.edu.cn/vpn/)并学习使用方法。
 
+如果你有洁癖，不喜欢闭源软件，也可以使用开源软件[Openconnect](https://github.com/openconnect/openconnect-gui/releases/download/v1.5.3/openconnect-gui-1.5.3-win32.exe) 。GNU/Linux系统可以直接使用包管理工具安装。
+
 这个VPN主要用于访问学校的内网（如[华东师范大学公共体育平台](https://peclub.ecnu.edu.cn/)、[华东师范大学图书馆](http://www.lib.ecnu.edu.cn/)等）。当需要下载和查阅论文时，可以使用VPN登入图书馆的数据库免费下载文档（其实是学校帮你把钱付了）
 {% endtab %}
 
