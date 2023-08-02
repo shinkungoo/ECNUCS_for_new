@@ -9,3 +9,7 @@ description: shynur
 因此，选择好的工具链, 形成路径依赖，快速上手，使你能够专注于眼前的任务。
 
 本文将仅以 C 语言开发为例。
+
+<!-- Local Variables: -->
+<!-- coding: utf-8-unix -->
+<!-- End: -->
