@@ -9,11 +9,14 @@
 ## 觉悟 <a href="#kakugo" id="kakugo"></a>
 
 * [欢迎来到华东师范大学](kakugo/huan-ying-lai-dao-hua-dong-shi-fan-da-xue.md)
+* [你为什么学计算机？](kakugo/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
 * [错误思维](kakugo/da-xue-si-wei-ji-ze.md)
+* [时间管理](kakugo/shi-jian-guan-li.md)
 
 ## 学院概况 <a href="#school-profile" id="school-profile"></a>
 
 * [专业概况](school-profile/cs-xue-shi-mo.md)
+* [培养计划](school-profile/pei-yang-ji-hua.md)
 * [优雅CSer指南](school-profile/you-ya-cser-zhi-nan/README.md)
   * [选课技巧](school-profile/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/README.md)
     * [选课机制](school-profile/you-ya-cser-zhi-nan/xuan-ke-ji-qiao/xuan-ke-shi-shi-mo-yang-de.md)
@@ -21,6 +24,7 @@
   * [学校常用网页名录](school-profile/you-ya-cser-zhi-nan/xue-xiao-chang-yong-wang-ye-ming-lu.md)
 * [CS特色制度与项目](school-profile/cs-te-se-zhi-du-yu-xiang-mu/README.md)
   * [CS拔尖班](school-profile/cs-te-se-zhi-du-yu-xiang-mu/cs-ba-jian-ban.md)
+  * [AI 俱乐部](school-profile/cs-te-se-zhi-du-yu-xiang-mu/ai-ju-le-bu.md)
   * [重要学科竞赛简介](school-profile/cs-te-se-zhi-du-yu-xiang-mu/zhong-yao-xue-ke-jing-sai-jian-jie.md)
   * [学院奖学金评比细则](school-profile/cs-te-se-zhi-du-yu-xiang-mu/cs-xi-jiang-xue-jin-ping-bi-xi-ze.md)
   * [校长奖学金评比细则](school-profile/cs-te-se-zhi-du-yu-xiang-mu/xiao-chang-jiang-xue-jin-ping-bi-xi-ze.md)
@@ -113,16 +117,8 @@
 
 ## 未完成 <a href="#un-complete" id="un-complete"></a>
 
-* [时间管理](un-complete/shi-jian-guan-li.md)
-* [你为什么学计算机？](un-complete/jin-tian-ye-shi-zhui-zhu-re-ai-de-yi-tian.md)
-* [培养计划](un-complete/pei-yang-ji-hua.md)
 * [成绩评定方法](un-complete/cheng-ji-ping-ding-fang-fa.md)
 * [专业学习体验](un-complete/cs-de-xue-xi-ti-yan.md)
 * [进一步了解华东师大的CS](un-complete/hua-dong-shi-da-de-cs.md)
 * [专业创新创业项目](un-complete/zhuan-ye-chuang-xin-chuang-ye-xiang-mu.md)
-* [三早进](un-complete/san-zao-jin/README.md)
-  * [AI俱乐部](un-complete/san-zao-jin/ai-ju-le-bu.md)
-  * [青春@计](un-complete/san-zao-jin/qing-chun-ji.md)
-  * [双创俱乐部](un-complete/san-zao-jin/shuang-chuang-ju-le-bu.md)
-  * [主要科研团队及研究方向](un-complete/san-zao-jin/zhu-yao-ke-yan-tuan-dui-ji-yan-jiu-fang-xiang.md)
 * [如果我向往科研，我在大一可以做什么？](un-complete/ru-guo-wo-xiang-wang-ke-yan-wo-zai-da-yi-ke-yi-zuo-shi-mo.md)
