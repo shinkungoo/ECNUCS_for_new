@@ -3,8 +3,7 @@
 ## 楔子 <a href="#wedge" id="wedge"></a>
 
 * [README](README.md)
-* [第二版前言](wedge/foreword-2.md)
-* [第一版前言](wedge/foreword-1.md)
+* [笔者前言](wedge/foreword-2.md)
 * [术语字典](wedge/dictionary.md)
 
 ## 觉悟 <a href="#kakugo" id="kakugo"></a>
